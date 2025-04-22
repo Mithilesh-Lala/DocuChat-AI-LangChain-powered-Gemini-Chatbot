@@ -15,7 +15,7 @@ DocuChat AI is an intelligent document-based chatbot that leverages the power of
 1. Clone this repository:
    ```
    git clone https://github.com/Mithilesh-Lala/DocuChat-AI-LangChain-powered-Gemini-Chatbot.git
-   cd docuchat-ai
+   cd project directory
    ```
 
 2. Install the required dependencies:
